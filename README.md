@@ -12,7 +12,7 @@ Backend untuk aplikasi Notely, dibuat dengan **Node.js**, **Express**, **TypeScr
 ## Cara Menjalankan
 1. Clone repo:
    ```bash
-   git clone https://github.com/zulfianarahmi/be-notely.git
+   git clone https://github.com/Elang-S/bootcamp-kilat-2025.git
    cd be-notely
 
 ## Endpoint API
